@@ -1,0 +1,7 @@
+Структура проекта
+sport_club/
+│
+├── SportClubApp.py       # Основной код приложения
+├── database.accdb        # База данных Access
+├── requirements.txt      # Зависимости
+└── icon.ico              # Иконка для exe (опционально)

@@ -1,0 +1,7 @@
+pyodbc
+pandas
+openpyxl
+pywin32
+pyinstaller
+tkcalendar
+xlsxwriter
